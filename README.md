@@ -7,3 +7,7 @@ The filesystem was called XTAF, because it is basically a FAT fs for Xbox (FATX)
 
 ## Attention!
 Best and safest way to use this program is to create an image file of your 360 drive and work with this image instead of directly working on the drive. There is no guarantee that the program works without errors.
+
+## License
+
+MIT — see [LICENSE](LICENSE).
